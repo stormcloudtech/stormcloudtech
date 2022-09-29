@@ -18,4 +18,4 @@ LINUX CLOUD SECURITY NETWORK
 
 ## GitHub Analytics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![StormCloudTech GitHub stats](https://github-readme-stats.vercel.app/api?username=stormcloudtech&show_icons=true&theme=radical)

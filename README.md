@@ -18,7 +18,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
   
-<h2><b>LINUX CLOUD NETWORK SECURITY MONITORING</h2></b>
+<h2><b>LINUX CLOUD NETWORK SECURITY MONITORING - Skills Linux System Administrator 
+ + User account management
+ + Structured Query Language (SQL)
+ + Network traffic packet capture
+ + Backup and restore
+ + Hardware setup and troubleshooting
+ + Network routers and firewalls
+ + Network switches
+ + SIEMs and monitoring systems
+ + Monitoring
+ </h2></b>
 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
